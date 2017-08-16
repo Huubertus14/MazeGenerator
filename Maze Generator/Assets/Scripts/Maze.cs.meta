@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76afd6d7d114b2545b57c98cfd586e52
+timeCreated: 1434949225
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 177434, guid: 2e09b5b2d72b3b745aec9576ada80c92, type: 2}
+  - planeFloor: {fileID: 137096, guid: 8c2e7ffe062a7c0489b7fd7b8befdc79, type: 2}
+  - cellFloor: {fileID: 116670, guid: b75fb1e6147af96438e35b7a29fa368b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
